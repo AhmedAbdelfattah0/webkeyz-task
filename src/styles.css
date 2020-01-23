@@ -1,0 +1,15 @@
+/* You can add global styles to this file, and also import other style files */
+/* @import "~bootstrap/dist/css/bootstrap.css"; */
+
+.bg-img {
+  height: 40em;
+  background-size: cover;
+  width: auto;
+  background-image: url('./assets/bg-img.png');
+  /* background-position:50% 50%; */
+
+}
+body {
+  padding-left: 16px;
+  padding-right: 16px;
+}
